@@ -33,6 +33,6 @@ This idea simulates **reputation-based role gating** and demonstrates how on-cha
 
 ## 🔗 Related Links
 
-- Tweet: [tweet link here](https://x.com/DanialIzmer/status/1941729074331676868)
+- Tweet: [tweet link here](https://x.com/danializmer/status/1942131331141615786?s=46&t=S1GywDYfXTwt2Y3y1B8NAw)
 
 ---
